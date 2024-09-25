@@ -774,6 +774,10 @@ hr{
       width: 80%;
     }
 
+    .dog2{
+      width: 400px;
+    }
+
     .firstArticle img{
       width: 160px;
       height: 120px;
@@ -878,9 +882,6 @@ hr{
   justify-content: space-around;
   width: 100%;
 }
-
-
-
 
 footer{
   color: black;

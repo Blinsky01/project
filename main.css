@@ -12,9 +12,6 @@ body {
   background-color: #fff;
 }
 
-
-/* dominiks navbar */
-
 :root{
   --orange: #f78200;
   --blue: #007ec8;
@@ -273,9 +270,6 @@ opacity: 0.9;
     color: white !important;
 }
 
-/* end of dominiks navbar  */
-
-
 .dropdown__menu{
   display: block;
   position: absolute;
@@ -440,9 +434,6 @@ button:hover{
 .flex img{
   margin-right: 30px;
 }
-/* .flex img{
-  margin-right: 100px;
-} */
 
 
 .article{
@@ -581,9 +572,6 @@ hr{
   margin-left:94%;
   margin-bottom: -4%;
 }
-/* Chongs CSS  */
-
-/* New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give you first-letters navigation  */
 
 :root {
     --second-color: hsl(193, 11%, 69%);  
@@ -645,9 +633,6 @@ hr{
     display: flex;
     align-items: center;
 }
-
-/* SLider */
-
 .container12 {
     display: flex;
     justify-content: center;
@@ -684,9 +669,8 @@ hr{
   }
   
   .card__article {
-    width: 800px; /*Remove after adding swiper js */
+    width: 800px;
     border-radius: 1.25rem;
-    /* overflow: hidden; */
     height: 800px;
   }
   .card__name {
@@ -697,7 +681,6 @@ hr{
     background-color: white;
     padding: 3rem 2rem 6rem 2rem;
     text-align: center;
-    /* border: solid 2px #d0d3d4; */
     box-shadow: 2px 2px 6px 4px #d0d3d4;
   }
   .card__description {
